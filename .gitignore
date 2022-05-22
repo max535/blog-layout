@@ -1,11 +1,8 @@
 # dependencies
 /node_modules
 
-# production
-/build
+# history
+.history/
 
 # misc
-/.DS_Store
-
-# hostory
-.history/
+.DS_Store
